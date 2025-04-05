@@ -6,26 +6,21 @@
 - Teaching assistant: Anna K. Gribkova, a.gribkova@intbio.org 
 
 #### День 1. 
-Лекция 1. Введение. Проблема понимания организации хроматина и функционирования геномов. История вопроса. Междисциплинарность подходов к изучению проблемы.
-[Лекция](slides/1Lecture1_Intro_new.pdf)  
-Лекция 2. Хроматин: от ДНК до супрануклеосомной структуры
-[Лекция](slides/3Lecture2_Chromatin_new.pdf) 
+[Лекция 1. Введение. Проблема понимания организации хроматина и функционирования геномов. История вопроса. Междисциплинарность подходов к изучению проблемы.](slides/1Lecture1_Intro_new.pdf)  
+[Лекция 2. Хроматин: от ДНК до супрануклеосомной структуры](slides/3Lecture2_Chromatin_new.pdf) 
 
 #### День 2. 
-Лекция 3. 3D-структура хроматина. 
-[Лекция](slides/4-5Lecture3_3D_and_Epigenetics.pdf)  
+[Лекция 3. 3D-структура хроматина.](slides/4-5Lecture3_3D_and_Epigenetics.pdf)  
 [Семинар](https://docs.google.com/presentation/d/1V4Hjo7pQuXwXuTRNGFREk2jlc_GXlvonYyP7LjB1qZo/edit?usp=drive_link)
 
 
 #### День 3. 
-Лекция 4. Молекулярные механизмы эпигенетической регуляции.
-[Лекция](slides/4-5Lecture3_3D_and_Epigenetics.pdf) 
+[Лекция 4. Молекулярные механизмы эпигенетической регуляции.](slides/4-5Lecture3_3D_and_Epigenetics.pdf) 
 [Семинар](https://docs.google.com/presentation/d/17dtTOsecF7vjAJzu33mwhS5_REbqeD7dvtzvchDN5p4/edit?usp=drive_link)
 
 
 #### День 4.  
-Лекция 5. Экспериментальные методы изучения хроматина.
-[Лекция](slides/6Lecture4_Experimental_epigenomics.pdf) 
+[Лекция 5. Экспериментальные методы изучения хроматина.](slides/6Lecture4_Experimental_epigenomics.pdf) 
 [Семинар](https://docs.google.com/presentation/d/1IXQWTJ9pl9rAXCZZqdzvwgPW1HTnZL3rh6-T9nhDx_w/edit?usp=drive_link) 
 
 <!---
@@ -35,9 +30,8 @@
 --->
 
 #### День 5. 
-Исторический экскурс (академик С.А. Недоспасов). 
-Лекция 6. Актуальные вопросы и практические приложения.  
-[Лекция](slides/7Lecture6_Advanced_topics.pdf)  
+Исторический экскурс (академик С.А. Недоспасов). <br>
+[Лекция 6. Актуальные вопросы и практические приложения.](slides/7Lecture6_Advanced_topics.pdf)  
 [Семинар](https://docs.google.com/presentation/d/146BUyYFfyRosMwYe37L8SfqReJNcJiNHnmiJInV4Yrg/edit?usp=sharing)
 
 #### Ответы на вопросы
