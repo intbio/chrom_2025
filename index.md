@@ -29,7 +29,7 @@
 [Семинар](https://docs.google.com/presentation/d/1ZOiD6E1xokh0Bbu730JUYj7MwAv6binuyzceU7cvn0g/edit?usp=sharing)
 --->
 
-#### День 5. Актуальные вопросы и практические приложения.  
+#### День 5. Исторический экскурс (академик С.А. Недоспасов). Актуальные вопросы и практические приложения.  
 [Лекция](slides/7Lecture6_Advanced_topics.pdf)  
 [Семинар](https://docs.google.com/presentation/d/146BUyYFfyRosMwYe37L8SfqReJNcJiNHnmiJInV4Yrg/edit?usp=sharing)
 
