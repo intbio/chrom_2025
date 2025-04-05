@@ -1,4 +1,4 @@
-# 2024_chromatin_sirius
+# chrom_2025
 От организации хроматина к пониманию функционирования геномов эукариот
 
-[http://intbio.org/2024_chromatin_sirius/](http://intbio.org/2024_chromatin_sirius/)
+[http://intbio.org/chrom_2025/](http://intbio.org/chrom_2025/)
