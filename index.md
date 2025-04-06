@@ -6,7 +6,7 @@
 - Teaching assistant: Anna K. Gribkova, a.gribkova@intbio.org 
 
 #### День 1. 
-[Лекция 1. Введение. Проблема понимания организации хроматина и функционирования геномов. История вопроса. Междисциплинарность подходов к изучению проблемы.](slides/1Lecture1_Intro_new.pdf)  <br>
+[Лекция 1. Введение. Проблема понимания организации хроматина и функционирования геномов. История вопроса. Междисциплинарность подходов к изучению проблемы.](https://www.dropbox.com/scl/fi/pbwh6c81k4tnvynkxm9z9/1Lecture1_Intro_new_upd.pptx?rlkey=6uyurijaucvp81pfvszk1u8sl&dl=0)  <br>
 
 
 #### День 2. 
