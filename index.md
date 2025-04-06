@@ -1,4 +1,4 @@
-<a href="https://github.com/intbio/chrom_2025/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
+<img width="378" alt="image" src="https://github.com/user-attachments/assets/063fd34b-e7ce-4868-936f-a4748bc39436" /><a href="https://github.com/intbio/chrom_2025/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
 # От организации хроматина к пониманию функционирования геномов эукариот (Весна 2025)
 
 ### Contact information
@@ -7,20 +7,20 @@
 
 #### День 1. 
 [Лекция 1. Введение. Проблема понимания организации хроматина и функционирования геномов. История вопроса. Междисциплинарность подходов к изучению проблемы.](slides/1Lecture1_Intro_new.pdf)  <br>
-[Лекция 2. Хроматин: от ДНК до супрануклеосомной структуры](slides/3Lecture2_Chromatin_new.pdf) 
+
 
 #### День 2. 
-[Лекция 3. 3D-структура хроматина.](slides/4-5Lecture3_3D_and_Epigenetics.pdf)  <br>
+[Лекция 2. Структура и динамика хроматина от ДНК до хромосомных территорий.](slides/3Lecture2_Chromatin_new.pdf)  <br>
 [Семинар](https://docs.google.com/presentation/d/1V4Hjo7pQuXwXuTRNGFREk2jlc_GXlvonYyP7LjB1qZo/edit?usp=drive_link)
 
 
 #### День 3. 
-[Лекция 4. Молекулярные механизмы эпигенетической регуляции.](slides/4-5Lecture3_3D_and_Epigenetics.pdf) <br>
+[Лекция 3. Молекулярные механизмы эпигенетической регуляции.](slides/4-5Lecture3_3D_and_Epigenetics.pdf) <br>
 [Семинар](https://docs.google.com/presentation/d/17dtTOsecF7vjAJzu33mwhS5_REbqeD7dvtzvchDN5p4/edit?usp=drive_link)
 
 
 #### День 4.  
-[Лекция 5. Экспериментальные методы изучения хроматина.](slides/6Lecture4_Experimental_epigenomics.pdf) <br>
+[Лекция 4. Экспериментальные методы изучения хроматина.](slides/6Lecture4_Experimental_epigenomics.pdf) <br>
 [Семинар](https://docs.google.com/presentation/d/1IXQWTJ9pl9rAXCZZqdzvwgPW1HTnZL3rh6-T9nhDx_w/edit?usp=drive_link) 
 
 <!---
