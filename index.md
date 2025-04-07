@@ -1,4 +1,4 @@
-<img width="378" alt="image" src="https://github.com/user-attachments/assets/063fd34b-e7ce-4868-936f-a4748bc39436" /><a href="https://github.com/intbio/chrom_2025/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
+<img width="403" alt="image" src="https://github.com/user-attachments/assets/98ca6e22-e18d-42b9-965b-d5afffb890ff" /><img width="378" alt="image" src="https://github.com/user-attachments/assets/063fd34b-e7ce-4868-936f-a4748bc39436" /><a href="https://github.com/intbio/chrom_2025/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
 # От организации хроматина к пониманию функционирования геномов эукариот (Весна 2025)
 
 ### Contact information
@@ -10,7 +10,7 @@
 
 
 #### День 2. 
-[Лекция 2. Структура и динамика хроматина от ДНК до хромосомных территорий.](slides/3Lecture2_Chromatin_new.pdf)  <br>
+[Лекция 2. Структура и динамика хроматина от ДНК до супрануклеосомной структуры.]()  <br>
 [Семинар](https://docs.google.com/presentation/d/1YtDd9L-ThngXzN2tEyoWJR1O4UyUiJYGugD_T1iWy2I/edit?usp=sharing)
 
 
