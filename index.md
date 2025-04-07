@@ -11,22 +11,22 @@
 
 #### День 2. 
 [Лекция 2. Структура и динамика хроматина от ДНК до хромосомных территорий.](slides/3Lecture2_Chromatin_new.pdf)  <br>
-[Семинар](https://docs.google.com/presentation/d/1V4Hjo7pQuXwXuTRNGFREk2jlc_GXlvonYyP7LjB1qZo/edit?usp=drive_link)
+[Семинар](https://docs.google.com/presentation/d/1YtDd9L-ThngXzN2tEyoWJR1O4UyUiJYGugD_T1iWy2I/edit?usp=sharing)
 
 
 #### День 3. 
 [Лекция 3. Молекулярные механизмы эпигенетической регуляции.](slides/4-5Lecture3_3D_and_Epigenetics.pdf) <br>
-[Семинар](https://docs.google.com/presentation/d/17dtTOsecF7vjAJzu33mwhS5_REbqeD7dvtzvchDN5p4/edit?usp=drive_link)
+[Семинар]()
 
 
 #### День 4.  
 [Лекция 4. Экспериментальные методы изучения хроматина.](slides/6Lecture4_Experimental_epigenomics.pdf) <br>
-[Семинар](https://docs.google.com/presentation/d/1IXQWTJ9pl9rAXCZZqdzvwgPW1HTnZL3rh6-T9nhDx_w/edit?usp=drive_link) 
+[Семинар]() 
 
 <!---
 #### День 5. Экспериментальная эпигеномика
  
-[Семинар](https://docs.google.com/presentation/d/1ZOiD6E1xokh0Bbu730JUYj7MwAv6binuyzceU7cvn0g/edit?usp=sharing)
+[Семинар])
 --->
 
 #### День 5. 
@@ -35,9 +35,9 @@
 [Семинар](https://docs.google.com/presentation/d/146BUyYFfyRosMwYe37L8SfqReJNcJiNHnmiJInV4Yrg/edit?usp=sharing)
 
 #### Ответы на вопросы
-[Презентация](https://docs.google.com/presentation/d/1IhCjqGYbSR8x5BLQgXGSyBPb8V48I2nKEXX4Mgw14Oo/edit?usp=sharing)  
+[Презентация](https://docs.google.com/presentation/d/1rd8G7zMwbtEjmFQkrbTMRhA84temwnewUtFYxCB7kYo/edit?usp=sharing)  
 
 
 #### Зачет
-- [Темы для рефератов](https://docs.google.com/document/d/1ztJtFxGLdJS_T3wqNKGaLk0DuVyhWBLSSNaUYAShHxo/edit?usp=sharing)
+- [Темы для рефератов](https://docs.google.com/document/d/1tQ636SLJ14eb_rEv1sxl1SzV49FcmI9bi-5dIiLoIfk/edit?usp=sharing)
 - [Папка со статьями](https://drive.google.com/drive/folders/1tPwEpwCvWKmxmsda1KGcQYidiQaa7tpK?usp=sharing)
