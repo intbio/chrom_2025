@@ -15,7 +15,7 @@
 
 
 #### День 3. 
-[Лекция 3. Молекулярные механизмы эпигенетической регуляции.](slides/4-5Lecture3_3D_and_Epigenetics.pdf) <br>
+[Лекция 3. 3Д-структура хроматина и эпигенетика.](https://www.dropbox.com/scl/fi/dltl1793smct6dbmrs2j3/3Lecture3_3D_and_Epigenetics.pptx?rlkey=rak1nm7qkvc7wp4v5ef4any80&dl=0) <br>
 [Семинар]()
 
 
