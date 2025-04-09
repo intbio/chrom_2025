@@ -16,7 +16,7 @@
 
 #### День 3. 
 [Лекция 3. 3Д-структура хроматина и эпигенетика.](https://www.dropbox.com/scl/fi/dltl1793smct6dbmrs2j3/3Lecture3_3D_and_Epigenetics.pptx?rlkey=rak1nm7qkvc7wp4v5ef4any80&dl=0) <br>
-[Семинар]()
+[Семинар](https://docs.google.com/presentation/d/1Wy4-7LGZE0I1TV8ksv9Z-JsHNPdeyfRxZr0MOr4T3Aw/edit?usp=sharing)
 
 
 #### День 4.  
