@@ -20,7 +20,7 @@
 
 
 #### День 4.  
-[Лекция 4. Экспериментальные методы изучения хроматина.](slides/6Lecture4_Experimental_epigenomics.pdf) <br>
+[Лекция 4. Экспериментальные методы изучения хроматина. Актуальный вопросы эпигеномики](https://www.dropbox.com/scl/fi/vq87dz7yb1rx5z9do17h6/4Lecture4_Experimental_epigenomics_Adv_topics.pptx?rlkey=e5c3kon8gzagi4qkjmg414ieh&dl=0) <br>
 [Семинар]() 
 
 <!---
