@@ -32,7 +32,7 @@
 #### День 5. 
 Исторический экскурс (академик С.А. Недоспасов). <br>
 [Лекция 5. История. Актуальные вопросы и практические приложения.](https://www.dropbox.com/scl/fi/ibwx1vttq1yi00kmravyh/5Lecture5_History_Advanced_topics.pptx?rlkey=637ey6y6kxyzvwzcr26cy6avl&dl=0)  
-[Семинар]()
+[Семинар](https://docs.google.com/presentation/d/1SCITQJSqeVdcCS0Totkze8UdMQ1pq3KHKN_ZnTD50rg/edit#slide=id.g2ec420c2121ced76_0)
 
 #### Ответы на вопросы
 [Презентация](https://docs.google.com/presentation/d/1rd8G7zMwbtEjmFQkrbTMRhA84temwnewUtFYxCB7kYo/edit?usp=sharing)  
